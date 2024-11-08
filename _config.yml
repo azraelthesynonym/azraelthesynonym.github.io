@@ -150,7 +150,7 @@ footer-hover-col: "#0085A1"
 
 navbar-img: "/assets/img/wp5393109.png"
 footer-img: "/assets/img/R.png"
-#page-img: "/assets/img/bgimage.png"
+page-img: "/assets/img/9686c6f6cc56583238ab6832bf46ee3e.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
