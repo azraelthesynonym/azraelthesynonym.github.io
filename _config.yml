@@ -19,9 +19,9 @@ author: Đỗ Hoàng Anh (azraelthesynonym)
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Về mình: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Project của mình: "https://thefortune.github.io"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
 
